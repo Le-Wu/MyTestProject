@@ -1,3 +1,7 @@
 Vegetables:
 Tomato
 Potato
+
+Fruits:
+Apple
+Pear
